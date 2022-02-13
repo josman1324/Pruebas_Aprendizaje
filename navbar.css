@@ -1,0 +1,22 @@
+
+body {
+    background-color: lightblue;
+    }
+.nav-enlace{
+background:salmon;
+display:inline-block;
+color:rgb(250, 216, 216);
+padding: 20px 50px;
+text-decoration:none;
+box-shadow: 2px 2px 1px 1px rgb(219, 230, 231);
+}
+.nav-enlace:hover{
+    background: rosybrown;
+    color:#000;
+}
+nav{
+    background: rgb(2, 133, 255);
+    padding:10px;
+    text-align: center;
+}
+

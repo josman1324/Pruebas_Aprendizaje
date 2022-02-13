@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+    }
+.nav-enlace{
+background:salmon;
+    display:inline-block;
+color:#fff;
+padding:20px 50px;
+text-decoration:none;
+box-shadow: 2px 2px 1px 1px rgb(219, 230, 231);
+}
+.nav-enlace:hover{
+    background: rgb(104, 2, 2);
+    color:#000;
+}
+nav{
+    background: rgb(2, 133, 255);
+    padding:10px;
+    text-align: center;
+}
+.contenedor{
+    display:flex;
+flex-direction:row;
+width: 100%;
+height: 1000px;
+background:#FAEBD7;
+margin: 20px auto;
+padding: 0px;
+flex-wrap:wrap;
+justify-content: space-around;
+align-items:stretch;
+}
+.hijo{
+    background:#FFFFF0;
+    display: inline-block;
+    width: 300px;
+    height:300px;
+    padding:30px;
+    margin:20px;
+}
+
+
